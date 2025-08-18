@@ -9,7 +9,7 @@ Este repositório contém uma coleção de jogos de texto simples desenvolvidos 
 
 Este projeto foi desenvolvido como parte dos requisitos da disciplina de Algortimos, presente no primeiro período do curso de Engenharia de Software na UniAcademia. O objetivo era aplicar conceitos fundamentais de lógica de programação, estruturas de dados e interação com o usuário para criar jogos funcionais no terminal, evitando o uso de funções prontas.
 
-## ✨ Jogos Incluídos
+## ✨ Quais são os jogos?
 
 Atualmente, a coleção inclui os seguintes jogos (em ordem cronológica):
 
